@@ -1,6 +1,8 @@
 image: codefreshplugins/cfstep-aqua
 version: 0.1.0
 description: Execute Twistlock image scan as build step
+categories:
+  - security
 keywords:
   - aqua
   - security
