@@ -1,7 +1,7 @@
 image: codefreshplugins/cfstep-aqua
 version: 0.1.0
 description: Execute Aqua Security image scan as build step
-icon: https://raw.githubusercontent.com/codefresh-plugins/cfstep-aqua/master/icon.jpg
+icon: https://raw.githubusercontent.com/codefresh-plugins/cfstep-aqua/master/icon.png
 categories:
   - security
 keywords:
